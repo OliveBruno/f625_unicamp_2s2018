@@ -2,4 +2,4 @@
 
 minhas solucoes para os exercicios de F625
 
-exercicios retirados do Livro Computational Physics do Mark Newman
+exercicios retirados do livro Computational Physics do Mark Newman
